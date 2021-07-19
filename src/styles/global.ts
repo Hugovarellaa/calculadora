@@ -27,6 +27,14 @@ html{
       font-size:87.5%;  //14px
     }
   }
+  body{
+    background-color: var(--background);
+    -webkit-font-smoothing: antialiased;
+  }
 
 
-`
+
+
+  
+
+`;
