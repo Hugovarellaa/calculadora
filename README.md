@@ -1,2 +1,1 @@
-
 ## Projeto iniciado em NextJS
